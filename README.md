@@ -252,10 +252,6 @@ cursos-online-ead-bd/
 ├── sql/
 │   ├── schema.sql          # DDL - Definição das tabelas
 │   ├── dml.sql             # DML - Operações CRUD
-│   └── queries.sql         # Consultas complexas
-├── docs/
-│   ├── diagrama_er.png     # Diagrama Entidade-Relacionamento
-│   └── dicionario.md       # Dicionário de dados
 ├── README.md               # Esta documentação
 └── .gitignore              # Arquivos ignorados
 ```
